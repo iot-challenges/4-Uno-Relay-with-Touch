@@ -6,7 +6,7 @@ Platform: Arduino UNO
 
 [Use VSCODE with Platform.io to compile the code](https://platformio.org/?ref=iotchallenges)
 
-* Instagram text
+### Instagram text
 
 [4 Uno Relay with Touch]
 The challenge is use a Touch sensor to turn on/off the Relay.
